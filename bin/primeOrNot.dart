@@ -17,6 +17,6 @@ void main() {
   }
 
   if (flag == 0) {
-    print('$number is prime number');
+    print('$num is prime number');
   }
 }
